@@ -111,13 +111,16 @@ http://127.0.0.1:8000/docs
 ```
 
 ---
+## Author 
+* Sumanth Nagireddy
+* Innomatics ID-(IN226095302)
 
 ## 🔗 GitHub Repository
 
 (Add your GitHub repo link here 👇)
 
 ```
-https://github.com/gayathrikota02/Medical-Appointment-System/tree/main
+https://github.com/Sumanth0804/IN226095302_FASTAPI/tree/main/Medical-Appointment-System-main
 ```
 
 ---
